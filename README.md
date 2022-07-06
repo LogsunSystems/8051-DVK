@@ -41,10 +41,13 @@ this provides advance features like ISP, I2C and IAP. The microcontroller has 8K
 
 
 ## SYSTEM REQUIREMENT
-* 8051 DVK
+* 8051 DVK.
 * 5V-2 Amp,50 Hz power supply.
-* USB cable
-* FRC Cable
+* USB cable.
+* FRC Cable.
+* Oscilloscope.
+* Probe.
+
 
 
 
