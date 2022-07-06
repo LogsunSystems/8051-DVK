@@ -16,7 +16,10 @@ this provides advance features like ISP, I2C and IAP. The microcontroller has 8K
 
 * Software, Assembler, disassembles,+12 V supply, USB cable and quick start manual.
 ## HARDWARE DETAILS
-* 16X2 LCD Dispay
+* 16X2 LCD Dispay.
+* Seven Segment Display.
+
+
 
 ## SYSTEM REQUIREMENT
 * 8051 DVK
