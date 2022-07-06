@@ -48,7 +48,7 @@ this provides advance features like ISP, I2C and IAP. The microcontroller has 8K
 * Oscilloscope.
 * Probe.
 
-Sr.no. Keys Description
+Sr        .no.              Keys Description
 _____________________________________________________________ 
 1 S Substitute Data into RAM/ Read Data from Memory 
 2 C Compare Block/Data in Memory 
