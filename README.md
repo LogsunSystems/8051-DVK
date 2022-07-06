@@ -15,5 +15,11 @@ this provides advance features like ISP, I2C and IAP. The microcontroller has 8K
 * Supplied with companion CD includes working sample programs, ISP   programming                 
 
 * Software, Assembler, disassembles,+12 V supply, USB cable and quick start manual.
+## SYSTEM REQUIREMENT
+* 8051 DVK
+* 5V-2 Amp,50 Hz power supply.
+* USB cable
+* FRC Cable
+
 
 
